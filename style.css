@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-destaque: #ED145B;
-    --cor-gradiente-preto: linear-gradient(113deg, #000 0%, #1E2021 44.96%, #1E2022 100%);
+    --cor-destaque: #7d14ed;
+    --cor-gradiente-preto: linear-gradient(113deg, #000 0%, #1e2021e0 44.96%, #1E2022 100%);
 }
 
 * {
@@ -87,8 +87,8 @@ h1 {
 }@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-destaque: #ED145B;
-    --cor-gradiente-preto: linear-gradient(113deg, #000 0%, #1E2021 44.96%, #1E2022 100%);
+    --cor-destaque: #a23fd4d3;
+    --cor-gradiente-preto: linear-gradient(113deg, #000 0%, #1b4d66 44.96%, #151b20 100%);
 }
 
 * {
